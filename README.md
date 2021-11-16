@@ -8,8 +8,7 @@ flutter run
 ```
 ## Codes
 
-```
-...
+```dart
  bottomNavigationBar: SalomonBottomBar(
           currentIndex: _currentIndex,
           onTap: (i) => setState(() => _currentIndex = i),
@@ -43,7 +42,6 @@ flutter run
             ),
           ],
         ),
- ...
 ```
 
 <br><br>
